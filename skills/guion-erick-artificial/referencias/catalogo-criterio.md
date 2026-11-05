@@ -12,9 +12,9 @@ Cada fila es un error de criterio que da para un episodio. La columna «Frase pa
 | Juntos ≠ causa (variable oculta) | +40 % los días con post | Si el post causó la venta | Quincena | ¿Qué más cambió al mismo tiempo? | tarjeta de calendario | 📝 ep05 |
 | ¿Contra qué lo comparo? (punto de referencia) | −30 % contra la etiqueta | Si es buena oferta | Buen Fin | ¿Contra qué precio lo estás comparando? | columna fantasma | 📝 especial Buen Fin |
 | ¿Contra qué lo comparo? (estacionalidad) | Diciembre +60 % vs noviembre | Si el negocio mejoró | Aguinaldo | ¿Contra el mismo mes del año pasado? | columna fantasma | 💡 reserva (no repetir junto al Buen Fin) |
-| Muestra chica | 3 de 3 = 100 % | Si el sabor gusta | Rosca de reyes sabor nuevo | ¿Con cuántos casos se calculó esto? | mosaico con pocas piezas | 💡 ep08 |
-| % ≠ cantidad | +200 % en línea | Si importa para el negocio | Pedidos por WhatsApp de 1 a 3 | ¿Cuánto es en números, no en porcentaje? | número que se desinfla en fichas | 💡 ep09 |
-| Tamaños distintos (normalizar) | Mesero A vendió más | Quién vende mejor | Turnos distintos | ¿Estoy comparando cosas del mismo tamaño? | pilas por turno | 💡 ep11 |
+| Muestra chica | 3 de 3 = 100 % | Si el sabor gusta | Rosca de reyes sabor nuevo | ¿Con cuántos casos se calculó esto? | mosaico con pocas piezas | 📝 ep08 |
+| % ≠ cantidad | +200 % en línea | Si importa para el negocio | Pedidos por WhatsApp de 1 a 3 | ¿Cuánto es en números, no en porcentaje? | número que se desinfla en fichas | 📝 ep09 |
+| Tamaños distintos (normalizar) | Mesero A vendió más | Quién vende mejor | Turnos distintos | ¿Estoy comparando cosas del mismo tamaño? | pilas por turno | 📝 ep11 |
 | Rebote (regresión a la media) | Subió tras cambiar el menú | Si el cambio funcionó | El peor mes del año | ¿Cómo era antes de lo normal? | onda con baseline | 💡 reserva |
 | Total ≠ por persona | La sucursal grande vende más | Qué sucursal rinde | Dos locales | ¿Cuánto es por cliente o por día? | pilas divididas | 💡 reserva |
 
@@ -25,9 +25,9 @@ Formular siempre como tendencia posible («puede darte la razón»), nunca como 
 | Comportamiento | Situación | Frase para copiar | Objeto | Estado |
 |---|---|---|---|---|
 | Te da la razón según cómo preguntas | ¿Abro los domingos? / ¿verdad que no? | Dame los argumentos en contra y qué datos te faltan. | plano inclinado | 📝 ep04 |
-| Cita una fuente que no existe | «Un estudio dice que…» (propósitos de año nuevo) | ¿Dónde lo verifico? Dame la fuente exacta. | papel sin sello / contorno discontinuo | 💡 ep07 |
-| La pregunta ya trae la respuesta | «¿Por qué mi competencia es peor?» | ¿Mi pregunta ya trae la respuesta? | plano inclinado (variación) | 💡 ep10 |
-| Recomienda sin conocer tu negocio | «Sube precios en diciembre» | ¿Qué necesitas saber de mi negocio antes de recomendar? | flecha general + punto ámbar | 💡 ep06 |
+| Cita una fuente que no existe | «Un estudio dice que…» (propósitos de año nuevo) | ¿Dónde lo verifico? Dame la fuente exacta. | papel sin sello / contorno discontinuo | 📝 ep07 |
+| La pregunta ya trae la respuesta | «¿Por qué mi competencia es peor?» | ¿Mi pregunta ya trae la respuesta? | plano inclinado (variación) | 📝 ep10 |
+| Recomienda sin conocer tu negocio | «Sube precios en diciembre» | ¿Qué necesitas saber de mi negocio antes de recomendar? | flecha general + punto ámbar | 📝 ep06 |
 | Seguridad ≠ certeza | Respuesta firme y equivocada sobre un trámite | ¿Qué tan seguro estás y por qué? | número sin rótulo de fuente | 💡 reserva |
 | Resumen que omite | Resume 40 reseñas y deja fuera la queja repetida | ¿Qué dejaste fuera del resumen? | mosaico con hueco | 💡 reserva |
 
@@ -37,7 +37,7 @@ Derivados de cada episodio (carrusel, post de texto, historia con encuesta) más
 
 | Pieza | Estado |
 |---|---|
-| ep12 · «Mi libreta de criterio»: las 11 preguntas en 60 s, con lanzamiento del PDF | 💡 |
+| ep12 · «Mi libreta de criterio»: las 12 preguntas en ~55 s, con lanzamiento del PDF | 📝 |
 
 ## P4 · Casos reales (desde el mes 2–3)
 

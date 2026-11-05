@@ -11,13 +11,13 @@ Propuesta del 5 nov 2026. Fechas tentativas ⚠︎: dependen de cerrar los pendi
 | 3 | 30 nov | 04 | P2 | Te da la razón según cómo preguntas (estudio *Science* 2026) | Dame los argumentos en contra y qué datos te faltan. | 📝 `guiones/ep04-domingos-razon.md` (sube por tendencia) |
 | 4 | 7 dic | 03 | P1 | Estética: quién no aparece | ¿Quién no aparece en estos datos? | 📝 `guiones/ep03-estetica-encuesta.md` |
 | 5 | 14 dic | 05 | P1 | Quincena: juntos ≠ causa (publicar en quincena) | ¿Qué más cambió al mismo tiempo? | 📝 `guiones/ep05-quincena-causa.md` |
-| 6 | 21 dic | 06 | P2 | Diciembre: recomienda sin conocer tu negocio | ¿Qué necesitas saber de mi negocio antes de recomendar? | 💡 `BRIEFS.md` |
-| 7 | 28 dic | 07 | P2 | Propósitos: fuente inventada | ¿Dónde lo verifico? Dame la fuente exacta. | 💡 |
-| 8 | 4 ene | 08 | P1 | Rosca de reyes: muestra chica | ¿Con cuántos casos se calculó esto? | 💡 |
-| 9 | 11 ene | 09 | P1 | +200 % en línea: % ≠ cantidad | ¿Cuánto es en números, no en porcentaje? | 💡 |
-| 10 | 18 ene | 10 | P2 | Pregunta cargada | ¿Mi pregunta ya trae la respuesta? | 💡 |
-| 11 | 25 ene | 11 | P1 | Turnos: tamaños distintos | ¿Estoy comparando cosas del mismo tamaño? | 💡 |
-| 12 | 1 feb | 12 | P3 | Recap «Mi libreta de criterio» + PDF | (las 12) | 💡 |
+| 6 | 21 dic | 06 | P2 | Diciembre: recomienda sin conocer tu negocio | ¿Qué necesitas saber de mi negocio antes de recomendar? | 📝 `guiones/ep06-diciembre-precios.md` |
+| 7 | 28 dic | 07 | P2 | Propósitos: fuente inventada | ¿Dónde lo verifico? Dame la fuente exacta. | 📝 `guiones/ep07-propositos-fuente.md` |
+| 8 | 4 ene | 08 | P1 | Rosca de reyes: muestra chica | ¿Con cuántos casos se calculó esto? | 📝 `guiones/ep08-rosca-muestra.md` |
+| 9 | 11 ene | 09 | P1 | +200 % en línea: % ≠ cantidad | ¿Cuánto es en números, no en porcentaje? | 📝 `guiones/ep09-linea-porcentaje.md` |
+| 10 | 18 ene | 10 | P2 | Pregunta cargada | ¿Mi pregunta ya trae la respuesta? | 📝 `guiones/ep10-taqueria-pregunta.md` |
+| 11 | 25 ene | 11 | P1 | Turnos: tamaños distintos | ¿Estoy comparando cosas del mismo tamaño? | 📝 `guiones/ep11-meseros-turnos.md` |
+| 12 | 1 feb | 12 | P3 | Recap «Mi libreta de criterio» + PDF | (las 12) | 📝 `guiones/ep12-libreta-criterio.md` |
 
 Cambios por el análisis de tendencias (ver `docs/ESTRATEGIA-CONTENIDO.md §12`): entra el especial de Buen Fin, ep04 sube a la semana 3 por el interés en la IA complaciente, y ep06 cambia de tema porque el Buen Fin ya usa «¿contra qué comparo?».
 

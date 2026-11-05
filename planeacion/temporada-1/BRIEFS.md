@@ -1,5 +1,7 @@
 # Temporada 1 · briefs de ep06–ep12
 
+> **Actualización:** los 7 briefs ya tienen guion completo en `guiones/ep06…ep12`. Este archivo queda como resumen y como fuente de los temas de reserva.
+
 Cada brief trae lo necesario para que `skills/guion-erick-artificial` escriba el guion completo. Las cifras son ilustrativas y su aritmética está comprobada. Todos son ejemplos hipotéticos.
 
 ---
