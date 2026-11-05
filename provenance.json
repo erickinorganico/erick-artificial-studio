@@ -1,0 +1,189 @@
+{
+  "source_versions": [
+    "V14 approved script and visuals",
+    "V15 sound design"
+  ],
+  "authorship": "Claude Cliente: visual engine, scenes, synthesis and mix; Codex: approved script, authorized voice generation, repository consolidation and CLI",
+  "files": [
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\mono-volumetrico\\SKILL.md",
+      "target": "skills/mono-volumetrico/SKILL.md",
+      "sha256": "2dd0423a97598c92848f8348d7eb7467515a6c68bf11fade3631fdf4b9dd5e8c"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\revision-fidelidad-mono\\SKILL.md",
+      "target": "skills/revision-fidelidad-mono/SKILL.md",
+      "sha256": "e6cde4e084d29b920857372c54d887619bc60374339604b20a1343a3b7b6c0ec"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\mono-volumetrico\\assets\\engine-material.js",
+      "target": "skills/mono-volumetrico/assets/engine-material.js",
+      "sha256": "fdb9b9b2907b4e26dfba521c3ab44c492566bbb3de964065336b58c6ffdda529"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\mono-volumetrico\\assets\\engine-relieve.js",
+      "target": "skills/mono-volumetrico/assets/engine-relieve.js",
+      "sha256": "18b8d731998ff52ff2547d52a50f92b97c00dfff4cbf9e493913342fc717dc8d"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\mono-volumetrico\\assets\\engine-tipo.js",
+      "target": "skills/mono-volumetrico/assets/engine-tipo.js",
+      "sha256": "d08ad06e388c8698f6fe5fa1214160dd52f97c4cdae3e6dd52cb3639e01730d0"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\mono-volumetrico\\assets\\engine.js",
+      "target": "skills/mono-volumetrico/assets/engine.js",
+      "sha256": "c497850e0a30710cb62465644badf2115c9409c1c526f79ffa128a71afb3fd2e"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\mono-volumetrico\\presets\\erick-artificial-negro.js",
+      "target": "skills/mono-volumetrico/presets/erick-artificial-negro.js",
+      "sha256": "1debbd48334469005e901e8fe81609f2d438c4cc90fd1253db6c56fdf65fbe46"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\mono-volumetrico\\scripts\\hoja.py",
+      "target": "skills/mono-volumetrico/scripts/hoja.py",
+      "sha256": "431e969be68a069ac1aeab2a682a369783a0f09d1cd374b656702f06b737abd0"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\mono-volumetrico\\scripts\\nivelar_voz.py",
+      "target": "skills/mono-volumetrico/scripts/nivelar_voz.py",
+      "sha256": "80e1796400f65cb743f2d7e587e7412b4aa421716ee361caa1e2810f04918807"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\mono-volumetrico\\scripts\\render.py",
+      "target": "skills/mono-volumetrico/scripts/render.py",
+      "sha256": "0034125cc2bc563582bc4f008f3f860f3c6b025f34a4c8fb3cfbc13920238429"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\mono-volumetrico\\sonido\\DISENO-SONORO-Y-MEZCLA.md",
+      "target": "skills/mono-volumetrico/sonido/DISENO-SONORO-Y-MEZCLA.md",
+      "sha256": "0beb0dba93b4b875031c41197f8c41b135dcf17f28dee9c381f5312872a0d93a"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\mono-volumetrico\\sonido\\ejemplo-cues-v15.py",
+      "target": "skills/mono-volumetrico/sonido/ejemplo-cues-v15.py",
+      "sha256": "17e452c1caa35210aa9f8919cb676148340ebe0148154f2068dd31d8eb6a3fa9"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\mono-volumetrico\\sonido\\mezclar.py",
+      "target": "skills/mono-volumetrico/sonido/mezclar.py",
+      "sha256": "e266c4958126b105c8569cdd75728504bae7ff59c378caaed3398b851cddba81"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\mono-volumetrico\\sonido\\sfxlib.py",
+      "target": "skills/mono-volumetrico/sonido/sfxlib.py",
+      "sha256": "3a37eef87fd71ada5a8e1c996af7f15dffe09283e1f869f5c08872b8315aa717"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\revision-fidelidad-mono\\scripts\\fondo_color.py",
+      "target": "skills/revision-fidelidad-mono/scripts/fondo_color.py",
+      "sha256": "b92d6e355e756458fcbe6fc857c99fabb18c186e1818d49bc6b0cc7c3424ff81"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\revision-fidelidad-mono\\scripts\\lado_a_lado.py",
+      "target": "skills/revision-fidelidad-mono/scripts/lado_a_lado.py",
+      "sha256": "a3014615a489f9d193851e20e74f0a05d636ec29f11dde8d3716562fd4d6513e"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\skills\\revision-fidelidad-mono\\scripts\\metricas.py",
+      "target": "skills/revision-fidelidad-mono/scripts/metricas.py",
+      "sha256": "23dea67a00f405ef2b0210b48beb94454b7e2aff5ff73574b9fc58608422e648"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v14-pregunta-correcta\\produccion-v14\\source\\proyecto-v14\\escenas-a.js",
+      "target": "episodes/chilaquiles/visual/escenas-a.js",
+      "sha256": "1fd2dad6e20111c2814e6dd6a15ca825b8bd8df6195b648cab0b80d7e84d439e"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v14-pregunta-correcta\\produccion-v14\\source\\proyecto-v14\\escenas-b.js",
+      "target": "episodes/chilaquiles/visual/escenas-b.js",
+      "sha256": "5a54c16c873510d83dd3ca7d2229d50e301cd37f2dd54305729093145ab387c0"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v14-pregunta-correcta\\produccion-v14\\source\\proyecto-v14\\escenas-c.js",
+      "target": "episodes/chilaquiles/visual/escenas-c.js",
+      "sha256": "835acd45f3546e9118c459e6a4defb2745f5628933b62687deb99dbccf7ba703"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v14-pregunta-correcta\\produccion-v14\\source\\proyecto-v14\\preset.js",
+      "target": "episodes/chilaquiles/visual/preset.js",
+      "sha256": "b11a9cc42689549f42662f2b0555a2ef6b6221c2772519351075b05107e6948a"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v14-pregunta-correcta\\produccion-v14\\source\\proyecto-v14\\fonts\\InstrumentSerif-Italic.ttf",
+      "target": "episodes/chilaquiles/visual/fonts/InstrumentSerif-Italic.ttf",
+      "sha256": "a3edbfddd920b3f79b6a4b63288f375e9ff38e17b13d3a395ff0d602910bd372"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v14-pregunta-correcta\\produccion-v14\\source\\proyecto-v14\\fonts\\InstrumentSerif-Regular.ttf",
+      "target": "episodes/chilaquiles/visual/fonts/InstrumentSerif-Regular.ttf",
+      "sha256": "3f3f7e5b35df7986803b7608f92bc2e72b35649cf1031a6107285fd5beb2f652"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v14-pregunta-correcta\\produccion-v14\\source\\proyecto-v14\\fonts\\Montserrat-Bold.ttf",
+      "target": "episodes/chilaquiles/visual/fonts/Montserrat-Bold.ttf",
+      "sha256": "c4c8cb572a5a2c43d78b3701f4b2349684e6ca4d1557e469af6065b1e099c26c"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v14-pregunta-correcta\\produccion-v14\\source\\proyecto-v14\\fonts\\Montserrat-Medium.ttf",
+      "target": "episodes/chilaquiles/visual/fonts/Montserrat-Medium.ttf",
+      "sha256": "92b3d3c6e135eb1dc95f88e6ca75bd6113d9eb3261a95ca39f733e3897e53675"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v14-pregunta-correcta\\produccion-v14\\source\\proyecto-v14\\fonts\\Montserrat-SemiBold.ttf",
+      "target": "episodes/chilaquiles/visual/fonts/Montserrat-SemiBold.ttf",
+      "sha256": "bab583d38d105dac9141b287fb2b7763b6d8b0bae97e745faaccedb40a579c29"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\source\\sfx\\cues.py",
+      "target": "audio/cues.py",
+      "sha256": "17e452c1caa35210aa9f8919cb676148340ebe0148154f2068dd31d8eb6a3fa9"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\source\\sfx\\mezclar.py",
+      "target": "audio/mezclar.py",
+      "sha256": "e266c4958126b105c8569cdd75728504bae7ff59c378caaed3398b851cddba81"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\source\\sfx\\sfxlib.py",
+      "target": "audio/sfxlib.py",
+      "sha256": "3a37eef87fd71ada5a8e1c996af7f15dffe09283e1f869f5c08872b8315aa717"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v14-pregunta-correcta\\produccion-v14\\source\\audio_v14\\nivelar.py",
+      "target": "audio/nivelar.py",
+      "sha256": "5cba4dad25dc423820b471c9981f4ad095c2d1b59705ea4d7df71a078ad98dbc"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v14-pregunta-correcta\\produccion-v14\\source\\audio_v14\\frases.json",
+      "target": "episodes/chilaquiles/frases.json",
+      "sha256": "77216cf70b3496b806cd20d8e96b6fb7ed9fc24ddaa88bd37e7dad983515c32f"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\GUION-STORYBOARD-V14-PREGUNTA-CORRECTA.md",
+      "target": "episodes/chilaquiles/GUION-STORYBOARD.md",
+      "sha256": "12e57c981727b5d5deff266f2e6f8aa0879d88b4959e7b5f322b6cb09980bf37"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v14-pregunta-correcta\\produccion-v14\\audio\\v14-procesado\\voz-v14-nivelada-48k.wav",
+      "target": "episodes/chilaquiles/private/voz-nivelada.wav",
+      "sha256": "4acdeb71a34decdefb0d621d2b7c122ecf72fabc1d2b50fd775356875ebb9d89"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v14-pregunta-correcta\\produccion-v14\\audio\\tts_[curi_20261102_115434.mp3",
+      "target": "episodes/chilaquiles/private/voz-original.mp3",
+      "sha256": "aae27b0caf219058eae796766d7362bb81e3c35fe6b21db000c9b3c091226b9e"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v15-diseno-sonoro\\produccion-v15\\ENTREGA.md",
+      "target": "docs/ENTREGA-V15-ANTECEDENTE.md",
+      "sha256": "08507ecff96934af7f42637464642463baf30640a6e53d5cc86a880b872091e0"
+    },
+    {
+      "source": "content-network\\03_canales\\desarrollo\\erick-artificial\\primer-video-excel-ia\\revision-v14-pregunta-correcta\\produccion-v14\\revision\\REVISION-FIDELIDAD.md",
+      "target": "docs/REVISION-V14-ANTECEDENTE.md",
+      "sha256": "dafff69bdcbffee9c4ec10f046fc8b0ad548bd4d9fdab3a94178577f17118f0e"
+    }
+  ]
+}

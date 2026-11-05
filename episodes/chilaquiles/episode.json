@@ -1,0 +1,14 @@
+{
+  "id": "chilaquiles",
+  "title": "La IA contó bien. ¿Respondió bien?",
+  "duration": 44.8,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "voice": "private/voz-nivelada.wav",
+  "phrases": "frases.json",
+  "visual": "visual",
+  "sfx_gain_offset": 12,
+  "review_status": "awaiting_full_audio_visual_review",
+  "publication_authorized": false
+}
