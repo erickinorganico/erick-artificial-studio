@@ -36,4 +36,4 @@ La voz original/nivelada está disponible localmente en `episodes/chilaquiles/pr
 
 Base consolidada de V14/V15, no aprobación editorial nueva. Sigue pendiente evaluación completa de imagen/audio; ver `docs/BACKLOG.md`. Guion aprobado; aprendizaje/retención no medidos. La ejecución no genera otra voz, compra servicios o publica. Antes de entregar para publicación: copia limpia, verificación fuente/salida y recibo SHA-256 con el procedimiento vigente del canal.
 
-`provenance.json` registra hashes de fuentes importadas. No se cambian ni borran los expedientes originales. Git local con rama `codex/studio-foundation`; sin remoto ni push.
+`provenance.json` registra hashes de fuentes importadas. No se cambian ni borran los expedientes originales. Repositorio público: https://github.com/erickinorganico/erick-artificial-studio, rama principal `main`. El checkout inicial local usa `codex/studio-foundation` y sigue `origin/main`.
