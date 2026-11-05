@@ -5,3 +5,5 @@ Leer README.md, docs/BACKLOG.md y el episodio antes de editar. Configuración y 
 El guion de chilaquiles fue aprobado: una enseñanza, ventas frente a preferencias. Fondos negros y color semántico; volumen de voz uniforme. No restaurar robot/Terminal/pixel de versiones históricas. Conservar fuentes y voz; no TTS, publicación, gastos o recurrencia por ejecutar herramientas locales. Una nueva voz o cambio de guion requiere alcance humano vigente.
 
 Usar content-motion-studio para producción. Para navegador compartido leer el protocolo global vigente; no tomar perfiles ajenos. Copias limpias y hashes vigentes antes de una entrega para publicación; no subir originales. No autoaprobar estética por un test técnico. Los pendientes se registran por tiempo/evidencia en el episodio. Escribir únicamente archivos del encargo; respetar trabajo concurrente.
+
+Estrategia y skills del canal: `docs/ESTRATEGIA-CONTENIDO.md`, `docs/MAPA-DE-SKILLS.md`, `skills/guion-erick-artificial` y `skills/episodio-erick-artificial`. Los guiones de `planeacion/` son propuestas hasta que Erick los apruebe.
