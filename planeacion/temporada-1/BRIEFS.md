@@ -4,17 +4,18 @@ Cada brief trae lo necesario para que `skills/guion-erick-artificial` escriba el
 
 ---
 
-## Ep06 · Diciembre fue mi mejor mes. ¿Respondió bien? (P1 · 21 dic)
+## Ep06 · La IA me dijo que subiera precios en diciembre (P2 · 21 dic)
 
-- **Error:** comparar contra el periodo equivocado (estacionalidad).
-- **Pregunta a la IA:** «¿Mi negocio va mejorando?».
-- **Cuenta correcta:** diciembre $78,000 vs noviembre $48,750 → **+60 %** (78,000 / 48,750 = 1.6).
-- **Grieta:** diciembre siempre sube: aguinaldo, posadas.
-- **Imagina:** el diciembre pasado vendiste $90,000. Contra ese, bajaste.
-- **Regla:** «¿Subió este mes? → compara con el anterior. ¿Mejoró el negocio? → compara con el mismo mes del año pasado».
-- **Frase:** «¿Contra qué lo estoy comparando?».
-- **Visual:** pila de diciembre junto a una **columna fantasma** (contorno discontinuo, ámbar) del diciembre anterior, más alta; noviembre se aparta a un lado.
-- **Remate (idea):** «Mi aguinaldo también subió 60 % contra noviembre. Lástima que ya me lo gasté».
+- **Comportamiento:** recomienda con una regla general sin conocer tu negocio (contexto faltante).
+- **Pregunta a la IA:** «¿Subo precios en diciembre?».
+- **Respuesta:** «Sí: en diciembre sube la demanda por aguinaldo y fiestas. Sube 10 %». El argumento general es razonable.
+- **Grieta:** «Suena lógico. Pero ¿respondió bien?». No sabía nada de mi negocio.
+- **Imagina:** tu papelería está junto a una universidad; en diciembre los estudiantes se van de vacaciones y tus ventas bajan a la mitad.
+- **Regla:** las tendencias generales sirven para hacer preguntas, no para decidir. Para decidir, dale tus datos: ventas de diciembres anteriores, quién te compra y qué cambia en vacaciones.
+- **Frase:** «¿Qué necesitas saber de mi negocio antes de recomendar?».
+- **Visual:** la recomendación llega como una flecha general sobre un mapa de puntos; al acercar la cámara, tu negocio es un punto ámbar que va al revés de la flecha. Luego entran fichas ámbar con lo que la IA no sabía.
+- **Cifras ilustrativas:** diciembres anteriores −50 % (de $40,000 a $20,000) mientras la regla general dice +10 %.
+- **Remate (idea):** «Ahora le cuento todo de mi negocio antes de preguntar. Ya sabe más de mis ventas que mi contador».
 
 ## Ep07 · Me citó un estudio que no existe (P2 · 28 dic)
 
@@ -79,8 +80,8 @@ Cada brief trae lo necesario para que `skills/guion-erick-artificial` escriba el
 ## Ep12 · Mi libreta de criterio (P3 · 1 feb)
 
 - **Formato especial** (rompe los 7 bloques): recap de 60 s.
-- **Gancho:** «Le hice once preguntas a la IA. Contestó bien las cuentas. Estas son las preguntas que tuve que agregar».
-- **Cuerpo:** las 11 frases para copiar, cada una con su objeto icónico en 2–3 s (platos, balancín, puerta, mesa inclinada, calendario…). El ámbar, que ya aprendió el público, une todo.
+- **Gancho:** «Le hice doce preguntas a la IA. Contestó bien las cuentas. Estas son las preguntas que tuve que agregar».
+- **Cuerpo:** las 12 frases para copiar (11 episodios + especial Buen Fin), cada una con su objeto icónico en 2–3 s (platos, balancín, puerta, mesa inclinada, calendario…). El ámbar, que ya aprendió el público, une todo.
 - **Cierre:** «Las junté en una libreta. Comenta LIBRETA y te la mando» ⚠︎ (requiere PDF aprobado + automatización de DM).
 - **Visual:** montaje con los objetos de cada episodio. Reutiliza escenas: costo bajo y gran valor de archivo.
 - **Remate (idea):** la libreta se cierra y la portada dice «¿Respondió bien?».

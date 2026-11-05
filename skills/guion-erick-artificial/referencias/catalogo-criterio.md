@@ -10,7 +10,8 @@ Cada fila es un error de criterio que da para un episodio. La columna «Frase pa
 | Promedio ≠ caso típico (valor extremo) | Promedio $180 | Cuánto gasta alguien normal | Fonda, ticket de cumpleaños | ¿Hay casos raros que muevan el promedio? | balancín | 📝 ep02 |
 | Quién no aparece (sobrevivientes) | 95 % contentos | Qué piensan todos | Estética, encuesta a quien regresa | ¿Quién no aparece en estos datos? | puerta + contorno discontinuo | 📝 ep03 |
 | Juntos ≠ causa (variable oculta) | +40 % los días con post | Si el post causó la venta | Quincena | ¿Qué más cambió al mismo tiempo? | tarjeta de calendario | 📝 ep05 |
-| ¿Contra qué lo comparo? (estacionalidad) | Diciembre +60 % vs noviembre | Si el negocio mejoró | Aguinaldo | ¿Contra qué lo estoy comparando? | columna fantasma | 💡 ep06 |
+| ¿Contra qué lo comparo? (punto de referencia) | −30 % contra la etiqueta | Si es buena oferta | Buen Fin | ¿Contra qué precio lo estás comparando? | columna fantasma | 📝 especial Buen Fin |
+| ¿Contra qué lo comparo? (estacionalidad) | Diciembre +60 % vs noviembre | Si el negocio mejoró | Aguinaldo | ¿Contra el mismo mes del año pasado? | columna fantasma | 💡 reserva (no repetir junto al Buen Fin) |
 | Muestra chica | 3 de 3 = 100 % | Si el sabor gusta | Rosca de reyes sabor nuevo | ¿Con cuántos casos se calculó esto? | mosaico con pocas piezas | 💡 ep08 |
 | % ≠ cantidad | +200 % en línea | Si importa para el negocio | Pedidos por WhatsApp de 1 a 3 | ¿Cuánto es en números, no en porcentaje? | número que se desinfla en fichas | 💡 ep09 |
 | Tamaños distintos (normalizar) | Mesero A vendió más | Quién vende mejor | Turnos distintos | ¿Estoy comparando cosas del mismo tamaño? | pilas por turno | 💡 ep11 |
@@ -26,7 +27,7 @@ Formular siempre como tendencia posible («puede darte la razón»), nunca como 
 | Te da la razón según cómo preguntas | ¿Abro los domingos? / ¿verdad que no? | Dame los argumentos en contra y qué datos te faltan. | plano inclinado | 📝 ep04 |
 | Cita una fuente que no existe | «Un estudio dice que…» (propósitos de año nuevo) | ¿Dónde lo verifico? Dame la fuente exacta. | papel sin sello / contorno discontinuo | 💡 ep07 |
 | La pregunta ya trae la respuesta | «¿Por qué mi competencia es peor?» | ¿Mi pregunta ya trae la respuesta? | plano inclinado (variación) | 💡 ep10 |
-| Recomienda sin conocer tu negocio | «Sube tus precios 15 %» | ¿Qué necesitas saber de mi negocio antes de recomendar? | fichas ámbar que faltan | 💡 reserva |
+| Recomienda sin conocer tu negocio | «Sube precios en diciembre» | ¿Qué necesitas saber de mi negocio antes de recomendar? | flecha general + punto ámbar | 💡 ep06 |
 | Seguridad ≠ certeza | Respuesta firme y equivocada sobre un trámite | ¿Qué tan seguro estás y por qué? | número sin rótulo de fuente | 💡 reserva |
 | Resumen que omite | Resume 40 reseñas y deja fuera la queja repetida | ¿Qué dejaste fuera del resumen? | mosaico con hueco | 💡 reserva |
 

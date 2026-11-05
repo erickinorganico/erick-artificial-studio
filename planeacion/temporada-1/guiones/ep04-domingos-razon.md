@@ -80,6 +80,8 @@ Prueba sin voz: la mesa que se inclina según la pregunta debe bastar para leer 
 
 (El hashtag de producto es solo de descubrimiento; la voz nunca nombra una marca.)
 
+**Fuente para el caption o el comentario fijado:** «Un estudio publicado en *Science* en 2026 encontró que 11 modelos de IA le dieron la razón al usuario 49 % más que otras personas, y que la gente confió más en las respuestas aduladoras» (Cheng et al., DOI 10.1126/science.aec8352). Verifica la redacción contra el resumen original antes de publicar.
+
 **Pregunta de comprensión:** «¿Por qué ninguna de las dos respuestas sirve para decidir?» → «porque siguieron la forma de la pregunta y no usaron datos de ventas ni de costos».
 
 **Carrusel:** pregunta 1 → sí · pregunta 2 → no · ¿cuál? · la pregunta inclina la mesa · chips de datos faltantes · la frase.

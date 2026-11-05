@@ -193,7 +193,42 @@ Calendario y guiones: `planeacion/temporada-1/`.
 
 ---
 
-## 12. Lo que no haremos
+## 12. Análisis de tendencias (5 nov 2026)
+
+Búsqueda web del 5 de noviembre de 2026, más la skill `social-media-skills:trend-jacking` (filtros de encaje, seguridad y momento). **Límites:**
+
+- Casi todas las fuentes sobre redes son blogs de agencias o vendedores; sus cifras son orientativas, no datos de plataforma.
+- No pude correr `hypit` ni `watch`: viven en la PC de Erick y esta sesión no tiene acceso a ella. Sin ellas no hubo análisis de reels concretos de creadores.
+- No hay métricas propias del canal todavía.
+
+| Hallazgo | Fuente | Qué cambia en la estrategia |
+|---|---|---|
+| En México, 48 % de las empresas usa IA (38 % un año antes) y **46 % no tiene forma confiable de medir si le funciona** | [AWS + Strand Partners vía Fast Company México](https://fastcompany.mx/2026/08/14/mexico-aposto-todo-ia-ahora-tiene-aprender-usarla-aws/), [Ecosistema Startup](https://ecosistemastartup.com/ia-en-mexico-2026-48-empresas-usan-ia-pero-46-no-sabe-si-funciona/) | **Valida el dolor de la audiencia** («uso IA y no sé si confiar»). Úsalo como gancho del post de lanzamiento en LinkedIn, citando la fuente. |
+| Pymes: 57–64 % usa alguna IA según Microsoft; las cifras varían por metodología | [u-GOB / Microsoft](https://u-gob.com/inteligencia-artificial-en-las-pymes-mexicanas-el-impulso-que-ya-no-pueden-ignorar-microsoft/), [Fast Company MX](https://fastcompany.mx/2026/03/13/pymes-mexico-inteligencia-artificial-incmty-2026/) | El público ya usa IA: no hay que convencerlo de usarla, sino de **revisarla**. |
+| **IA complaciente:** un estudio en *Science* (Cheng et al., mar 2026) halló que 11 modelos afirmaron las acciones del usuario 49 % más que las personas, y que los usuarios calificaron a la IA aduladora como **más confiable** | [EBSCO / Science](https://www.ebsco.com/articles/psychology/b97e12e3-f8f7-57bb-b906-7956732ee30e/sycophantic-ai-decreases-prosocial-intentions-and-promotes-dependence), [Fortune](https://dc.fortune.com/2026/03/31/ai-tech-sycophantic-regulations-openai-chatgpt-gemini-claude-anthropic-american-politics) | P2 tiene respaldo científico y está en la conversación pública. **Ep04 sube a la semana 3** y su caption cita el estudio (fuente primaria, DOI 10.1126/science.aec8352). |
+| Alucinaciones siguen presentes en 2026 y el público quiere transparencia sobre límites | [Duke University Libraries](https://blogs.library.duke.edu/blog/2026/01/05/its-2026-why-are-llms-still-hallucinating/) | Confirma ep07 (fuente inventada). |
+| Video vertical sigue dominando; el educativo de 30–90 s funciona | [Klap](https://klap.app/blog/short-form-video-trends), [Hoy](https://hoy.com.do/vivir/tecnologia/inteligencia-artificial-2026-ig-tiktok-clics-mueven-tecnologia_1074047.html), [Content Society](https://contentsociety.co/blog/tendencias-instagram-2026) | Mantener 45–60 s. |
+| Guardados y compartidos pesan más que los likes para explicadores; el final es donde ocurren | [Terra Market Group](https://www.terramarketgroup.com/blog/short-form-video-retention-hooks-2026-30-tested-opening-patterns-for-reels-tiktok-and-shorts), [Jetfuel](https://jetfuel.agency/how-to-optimize-short-form-video-content-for-success/) (orientativo) | Confirma la estrella polar y la frase para copiar al final. |
+| Ganchos de brecha de curiosidad superan a los de instrucción directa (orientativo) | [Klap · hooks](https://klap.app/blog/hook-examples) | La pregunta inicial debe abrir una brecha, no anunciar una lección: «¿Qué chilaquiles prefieren?» en vez de «Hoy te enseño…». |
+| Carruseles educativos «guardables» al alza | [Vilma Núñez](https://vilmanunez.com/como-crear-contenidos-con-ia-para-tu-marca-personal-en-2026/), [Accio](https://es.accio.com/business/reel-trends-on-instagram) | Confirma el carrusel derivado. Además sirve de **plan B** cuando no da tiempo de producir el video (Buen Fin). |
+| Las redes funcionan como buscador | [Content Society](https://contentsociety.co/blog/tendencias-instagram-2026) | Nueva regla: título y primera línea del caption con frases que la gente busca (abajo). |
+| Fatiga del contenido repetitivo hecho con IA; se valoran las voces reconocibles | [Clipiku](https://clipiku.com/blog/tendencias-de-tiktok-en-2026-lo-que-debes-saber), [HICARI](https://hicari.io/tendencias-redes-sociales-2026/) | El estilo minimalista «faceless» se está abaratando con IA ([AI Fire](https://metacast.app/podcast/ai-fire-daily/YfRCG9xp/335-max-the-0-motion-graphics-empire-viral-dan-koe-style-in-20-mins/89HBMZ1V)): **la estética sola ya no diferencia**. Lo que diferencia es el rigor, el código de color con significado y la persona de Erick. |
+| Buen Fin 2026: 13–17 de noviembre; puente del lunes 16 | [UnoTV](https://www.unotv.com/negocios/el-buen-fin-2026-durara-cinco-dias-la-edicion-16-sera-del-13-al-17-de-noviembre/), [Bloomberg Línea](https://www.bloomberglinea.com/latinoamerica/mexico/proximo-puente-en-mexico-coincidira-con-el-buen-fin-estos-son-los-festivos-que-quedan-en-2026/) | Pasa los tres filtros de tendencia. **Especial Buen Fin** (5.º guion) con plan B en carrusel. |
+| No encontré creadores hispanohablantes enfocados en criterio o pensamiento crítico sobre IA; los rankings son comerciales y sin metodología | [Upliora](https://www.upliora.es/comparativas/mejores-tiktokers-ia-espana-2026), [UNIR](https://vidasdigitalesunir.org/material/ia-6-estrategias-de-uso-critico-como-entender-la-ia-en-tiktok/) | **Es un indicio, no una prueba**, de que el hueco existe. Hay que confirmarlo con una revisión manual de creadores (pendiente con `hypit`/`watch` en la PC de Erick). |
+
+### Nuevas reglas que salen del análisis
+
+1. **Búsqueda dentro de redes.** Cada título o primera línea lleva una frase que la gente busca. Ejemplos: «¿la IA se equivoca?», «cómo usar ChatGPT con Excel», «¿le puedo creer a la IA?», «buena oferta Buen Fin». La voz sigue sin nombrar marcas; el texto de descubrimiento sí puede.
+2. **Citar fuentes primarias en P2.** Cuando un episodio habla de cómo se comportan los modelos, el caption cita el estudio (como el de *Science* en ep04). Es coherente con un canal de criterio.
+3. **Transparencia sobre la voz.** ⚠︎ Decisión de Erick: la voz es una clonación autorizada con ElevenLabs. Las plataformas piden etiquetar contenido con IA realista, y un canal sobre criterio con IA gana confianza si lo declara (p. ej. «voz: Erick, generada con IA» en la bio o con la etiqueta de la plataforma).
+4. **Carril rápido para estacionales.** Un evento con fecha (Buen Fin, aguinaldo, Reyes) se produce reutilizando escenas comunes. Si no llega a tiempo, sale como carrusel. Nunca se publica tarde.
+
+### Pendiente de análisis
+
+- Revisar 3 creadores medianos del nicho con `hypit` o `watch` en la PC de Erick y extraer principios, no ideas (`estrategia-contenido §4`).
+- Auditar las cuentas propias con `auditoria-redes-ai-lab` o Windsor (si se conectan) en cuanto haya 4 episodios publicados.
+
+## 13. Lo que no haremos
 
 - Hype, miedo o promesas («duplica tus ventas con IA»).
 - Atribuir datos a negocios o personas reales sin permiso.

@@ -2,21 +2,24 @@
 
 Propuesta del 5 nov 2026. Fechas tentativas ⚠︎: dependen de cerrar los pendientes de ep01 y de las puertas G1–G4. Nada aquí autoriza voz ni publicación. Las publicaciones son de lunes; los derivados, de miércoles y viernes.
 
-| Sem | Fecha (lunes) | Ep | Pilar | Tema | Frase para copiar | Estado |
+| Sem | Fecha | Ep | Pilar | Tema | Frase para copiar | Estado |
 |---|---|---|---|---|---|---|
 | 0 | 9 nov | — | — | Cierre de ep01: visionado 1x, A/B de sonido V14/V15, cifras, rótulo «cliente»; bios y cuentas | — | pendiente |
+| 0 | **jue 12 / vie 13 nov** | Especial | P1 | **Buen Fin: 30 % ¿contra qué?** (carril rápido; plan B carrusel) | ¿Contra qué precio lo estás comparando? | 📝 `guiones/ep-especial-buen-fin.md` · G1+G2 a más tardar el sáb 7 nov |
 | 1 | 16 nov | 01 | P1 | Chilaquiles: ventas ≠ preferencias | ¿Estos datos responden mi pregunta? ¿Qué información falta? | ✅ guion aprobado · revisión pendiente |
 | 2 | 23 nov | 02 | P1 | Fonda: promedio ≠ caso típico | ¿Hay casos raros que muevan el promedio? | 📝 `guiones/ep02-fonda-promedio.md` |
-| 3 | 30 nov | 03 | P1 | Estética: quién no aparece | ¿Quién no aparece en estos datos? | 📝 `guiones/ep03-estetica-encuesta.md` |
-| 4 | 7 dic | 04 | P2 | Te da la razón según cómo preguntas | Dame los argumentos en contra y qué datos te faltan. | 📝 `guiones/ep04-domingos-razon.md` |
-| 5 | 14 dic | 05 | P1 | Quincena: juntos ≠ causa | ¿Qué más cambió al mismo tiempo? | 📝 `guiones/ep05-quincena-causa.md` |
-| 6 | 21 dic | 06 | P1 | Aguinaldo: ¿contra qué comparo? | ¿Contra qué lo estoy comparando? | 💡 `BRIEFS.md` |
+| 3 | 30 nov | 04 | P2 | Te da la razón según cómo preguntas (estudio *Science* 2026) | Dame los argumentos en contra y qué datos te faltan. | 📝 `guiones/ep04-domingos-razon.md` (sube por tendencia) |
+| 4 | 7 dic | 03 | P1 | Estética: quién no aparece | ¿Quién no aparece en estos datos? | 📝 `guiones/ep03-estetica-encuesta.md` |
+| 5 | 14 dic | 05 | P1 | Quincena: juntos ≠ causa (publicar en quincena) | ¿Qué más cambió al mismo tiempo? | 📝 `guiones/ep05-quincena-causa.md` |
+| 6 | 21 dic | 06 | P2 | Diciembre: recomienda sin conocer tu negocio | ¿Qué necesitas saber de mi negocio antes de recomendar? | 💡 `BRIEFS.md` |
 | 7 | 28 dic | 07 | P2 | Propósitos: fuente inventada | ¿Dónde lo verifico? Dame la fuente exacta. | 💡 |
 | 8 | 4 ene | 08 | P1 | Rosca de reyes: muestra chica | ¿Con cuántos casos se calculó esto? | 💡 |
 | 9 | 11 ene | 09 | P1 | +200 % en línea: % ≠ cantidad | ¿Cuánto es en números, no en porcentaje? | 💡 |
 | 10 | 18 ene | 10 | P2 | Pregunta cargada | ¿Mi pregunta ya trae la respuesta? | 💡 |
 | 11 | 25 ene | 11 | P1 | Turnos: tamaños distintos | ¿Estoy comparando cosas del mismo tamaño? | 💡 |
-| 12 | 1 feb | 12 | P3 | Recap «Mi libreta de criterio» + PDF | (las 11) | 💡 |
+| 12 | 1 feb | 12 | P3 | Recap «Mi libreta de criterio» + PDF | (las 12) | 💡 |
+
+Cambios por el análisis de tendencias (ver `docs/ESTRATEGIA-CONTENIDO.md §12`): entra el especial de Buen Fin, ep04 sube a la semana 3 por el interés en la IA complaciente, y ep06 cambia de tema porque el Buen Fin ya usa «¿contra qué comparo?».
 
 ## Derivados por episodio (P3)
 

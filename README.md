@@ -26,7 +26,7 @@ Usa el mismo Python que tenga Playwright/Chromium y dependencias. `render` crea 
 - `skills/revision-fidelidad-mono/`: revisión visual y de sonido reutilizable.
 - `docs/`: arquitectura, procedencia, revisión y pendientes; `ESTRATEGIA-CONTENIDO.md` (posicionamiento, formato, métricas) y `MAPA-DE-SKILLS.md` (qué skill usar en cada etapa).
 - `skills/guion-erick-artificial/` y `skills/episodio-erick-artificial/`: guion del canal y producción de punta a punta con puertas humanas.
-- `planeacion/temporada-1/`: calendario, guiones propuestos ep02–05 y briefs ep06–12 (pendientes de aprobación).
+- `planeacion/temporada-1/`: calendario, guiones propuestos ep02–05 + especial Buen Fin y briefs ep06–12 (pendientes de aprobación).
 - `plantillas/episodio/`: arranque de un episodio nuevo.
 
 El episodio y sus cues son hoy específicos de chilaquiles. Otro episodio requiere su propio guion, voz, escenas y cues: no basta cambiar el título. No hay síntesis automática ni publicación automática.
